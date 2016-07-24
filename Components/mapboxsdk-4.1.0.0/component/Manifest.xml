@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<component format="1" id="mapboxsdk">
+  <name>Mapbox SDK</name>
+  <publisher>Xamarin Inc.</publisher>
+  <publisher-url>http://xamarin.com</publisher-url>
+  <version>4.1.0.0</version>
+  <summary>Build the map your application deserves.</summary>
+  <packages>
+    <package id="Square.OkHttp3" version="3.3.0" framework="android" />
+    <package id="Square.OkIO" version="1.6.0" framework="android" />
+    <package id="Xamarin.Android.Support.Design" version="23.4.0.0" framework="android" />
+    <package id="Xamarin.Android.Support.v7.AppCompat" version="23.4.0.0" framework="android" />
+    <package id="Xamarin.Android.Support.v4" version="23.4.0.0" framework="android" />
+  </packages>
+  <samples>
+    <sample id="MapboxSampleAndroid">
+      <name>Android Sample</name>
+      <summary>Android Sample</summary>
+    </sample>
+    <sample id="MapboxSampleiOS">
+      <name>iOS Sample</name>
+      <summary>iOS Sample</summary>
+    </sample>
+  </samples>
+</component>

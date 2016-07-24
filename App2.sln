@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App2.Droid", "App2\App2.Droid\App2.Droid.csproj", "{70C666E6-A304-41CC-81B2-BB038083E3DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App2", "App2\App2\App2.csproj", "{BEA1FD97-DE73-4F76-881E-6662BD42320D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70C666E6-A304-41CC-81B2-BB038083E3DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C666E6-A304-41CC-81B2-BB038083E3DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C666E6-A304-41CC-81B2-BB038083E3DE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{70C666E6-A304-41CC-81B2-BB038083E3DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C666E6-A304-41CC-81B2-BB038083E3DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C666E6-A304-41CC-81B2-BB038083E3DE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BEA1FD97-DE73-4F76-881E-6662BD42320D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA1FD97-DE73-4F76-881E-6662BD42320D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA1FD97-DE73-4F76-881E-6662BD42320D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA1FD97-DE73-4F76-881E-6662BD42320D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
